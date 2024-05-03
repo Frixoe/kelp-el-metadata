@@ -2,6 +2,6 @@
   "name": "Kelp by Luganodes",
   "website": "https://kelpdao.xyz/restake/",
   "description": "With partnerships across all AVSs, your delegated assets are protected by institutional grade security offered by Luganodes. KelpDAO is the OG liquid restaking protocol with 250K+ ETH restaked.",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Frixoe/kelp-el-metadata/main/logo.png",
   "twitter": "https://twitter.com/KelpDAO"
 }
